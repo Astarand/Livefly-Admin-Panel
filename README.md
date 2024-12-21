@@ -1,66 +1,114 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# Livefly Healthcare
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+Livefly Healthcare is a state-of-the-art platform designed to provide seamless healthcare solutions using the latest technologies. It combines a robust backend, a dynamic frontend, and various supporting libraries to deliver an exceptional user experience.
 
-## About Laravel
+## 🚀 Technologies Used
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+### Widgets
+- **Slider Revolution 6.5.25**: Used to create interactive and visually appealing sliders for the website.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+### Photo Galleries
+- **Slider Revolution 6.5.25**: Incorporated for image galleries to showcase high-quality visuals.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+### Backend
+- **Laravel**: A powerful PHP framework used to handle backend logic and build RESTful APIs.
+- **PHP 8.2.14**: The core programming language for server-side functionality.
 
-## Learning Laravel
+### Database
+- **MySQL**: A robust and efficient database management system for storing and managing application data.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+### Web Server
+- **LiteSpeed**: A high-performance web server optimized for speed and scalability.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+### Analytics
+- **Microsoft Clarity**: User behavior analytics to understand how users interact with the platform.
+- **Google Analytics (GA4)**: Used for tracking user interactions and performance metrics.
+- **Facebook Pixel**: Enables targeted advertising by tracking conversions and user behavior.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+### JavaScript Frameworks
+- **GSAP**: Advanced JavaScript animation library used for creating smooth, high-performance animations.
 
-## Laravel Sponsors
+### Tag Managers
+- **Google Tag Manager**: Facilitates the management of marketing tags without modifying the website's code.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+### CDN Services
+- **Cloudflare**: Provides content delivery and website optimization.
+- **Unpkg**: A global content delivery network for JavaScript packages.
+- **cdnjs**: Free CDN for hosting popular libraries.
 
-### Premium Partners
+### JavaScript Libraries
+- **Swiper**: Used to create responsive touch sliders.
+- **Isotope**: Enables filtering and sorting of grid layouts.
+- **AOS (Animate on Scroll)**: Adds scroll-based animations for a better user experience.
+- **jQuery 1.1.0**: A lightweight JavaScript library for DOM manipulation and AJAX.
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+### Frontend Frameworks
+- **React**: A powerful JavaScript library for building interactive user interfaces.
+- **Bootstrap**: A responsive framework used for designing mobile-first web pages.
+- **Font Awesome**: Provides scalable vector icons for enhanced design.
 
-## Contributing
+### Font Scripts
+- **Google Fonts API**: Used to import and apply custom fonts seamlessly.
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+### Miscellaneous
+- **Open Graph**: Meta tags for enhanced social media sharing.
+- **Popper.js**: Positioned tooltips and popovers used in interactive UI elements.
+- **HTTP/3**: Faster and more reliable HTTP protocol for improved web performance.
 
-## Code of Conduct
+### Hosting
+- **Hostinger**: Provides scalable and reliable hosting for the platform.
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+---
 
-## Security Vulnerabilities
+## ⚖️ License
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+### Livefly Healthcare - Custom License
 
-## License
+#### 1. Copyright
+This software is protected by copyright law and international treaties. All rights are reserved by the author(s) unless otherwise specified.
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+© 2024 Rittik Sadhukhan, TechKrafty Pvt. Ltd. All rights reserved.
+
+#### 2. Grant of License
+You are granted a non-exclusive, non-transferable, limited license to use, modify, and distribute this software under the following conditions:
+
+- **Usage**: You may use the software for personal, educational, or commercial purposes, provided that you comply with the terms of this license.
+- **Modification**: You may modify the software for your personal use. If you distribute modified versions, they must include a statement clearly stating that the original code has been modified.
+- **Distribution**: You may distribute the software (either in its original or modified form), provided that you include this license in all copies or substantial portions of the software.
+
+#### 3. Prohibited Uses
+The following actions are strictly prohibited under this license:
+
+- **No Unauthorized Copying**: You may not reproduce, distribute, or publicly display this software, in whole or in part, without the express written permission of the author.
+- **No Resale**: You may not resell or re-license the software.
+- **No Reverse Engineering**: You may not reverse-engineer, decompile, or disassemble the software in any manner.
+- **No Use in Malicious Activities**: You may not use the software for any unlawful or malicious activities, including, but not limited to, hacking, spamming, or any actions that harm the integrity of the software or its users.
+
+#### 4. No Warranty
+The software is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, or non-infringement. In no event shall the author(s) be liable for any damages arising from the use of this software, even if they have been advised of the possibility of such damages.
+
+#### 5. Indemnity
+By using this software, you agree to indemnify, defend, and hold harmless the author(s) from any claims, losses, or damages, including legal fees, arising out of your use of this software in violation of the terms of this license.
+
+#### 6. Intellectual Property
+All intellectual property rights in the software, including but not limited to copyrights, trademarks, and patents, remain the exclusive property of the author(s).
+
+#### 7. Termination
+This license is effective until terminated. The author(s) may terminate this license at any time if you fail to comply with the terms. Upon termination, you must cease using and distributing the software and destroy all copies in your possession.
+
+#### 8. Legal Actions for Violation
+If you violate any part of this license, the author(s) reserve the right to take legal action against you, which may include seeking damages, injunctive relief, and other remedies available under law.
+
+#### 9. Governing Law
+This license and any claims arising from it will be governed by and construed in accordance with the laws of India. Any disputes shall be subject to the exclusive jurisdiction of the courts in Kolkata, West Bengal, India.
+
+#### 10. Acknowledgment
+By using, modifying, or distributing this software, you acknowledge that you have read and understood this license and agree to be bound by its terms.
+
+#### 11. Contact Information
+If you have any questions about this license, please contact:
+
+Rittik Sadhukhan  
+TechKrafty Pvt. Ltd.  
+Email: rittik@techkrafty.com  
+Website: [https://techkrafty.com](https://techkrafty.com)
